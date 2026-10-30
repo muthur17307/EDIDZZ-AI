@@ -1,0 +1,120 @@
+{
+  "clip_id": "clip_001",
+  "filename": "upload_001_vid_8a8b85_WhatsApp_Video_2026-10-29_at_7.59.24_PM.mp4",
+  "duration": 123.599,
+  "summary": "upload_001_vid_8a8b85_WhatsApp_Video_2026-10-29_at_7.59.24_PM.mp4: 123.7s, 14 analyzed segments",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.67,
+      "transcript": "Your brain is most powerful weapon in the world",
+      "visual_summary": "Scene 1 (7.7s): Static low activity (motion: 0.6, brightness: 20)",
+      "story_role": "introduction",
+      "quality": 0.93
+    },
+    {
+      "start": 7.67,
+      "end": 18.2,
+      "transcript": "Your brain is most powerful weapon in the world Pounds in your computer is not that we have knowledge day Your brain is the only thing you have when you're going to",
+      "visual_summary": "Scene 2 (10.5s): Balanced visual pacing (motion: 2.9, brightness: 21)",
+      "story_role": "benefit",
+      "quality": 0.93
+    },
+    {
+      "start": 18.2,
+      "end": 31.4,
+      "transcript": "Your brain is the only thing you have when you're going to Real life Your loan to you may have a",
+      "visual_summary": "Scene 3 (13.2s): Balanced visual pacing (motion: 5.3, brightness: 24)",
+      "story_role": "benefit",
+      "quality": 0.93
+    },
+    {
+      "start": 31.4,
+      "end": 37.9,
+      "transcript": "Your loan to you may have a I want to just 24 hours in a day with you alone in this brain",
+      "visual_summary": "Scene 4 (6.5s): Static low activity (motion: 1.2, brightness: 84)",
+      "story_role": "benefit",
+      "quality": 0.93
+    },
+    {
+      "start": 37.9,
+      "end": 44.47,
+      "transcript": "I want to just 24 hours in a day with you alone in this brain And once they can show you",
+      "visual_summary": "Scene 5 (6.6s): Balanced visual pacing (motion: 3.5, brightness: 34)",
+      "story_role": "benefit",
+      "quality": 0.93
+    },
+    {
+      "start": 44.47,
+      "end": 53.13,
+      "transcript": "And once they can show you Can you show your own brain in your brain controls you get to",
+      "visual_summary": "Scene 6 (8.7s): Balanced visual pacing (motion: 4.6, brightness: 15)",
+      "story_role": "benefit",
+      "quality": 0.93
+    },
+    {
+      "start": 53.13,
+      "end": 70.3,
+      "transcript": "Can you show your own brain in your brain controls you get to Do you want to don't have you want to go on how you want to get there you go to control if not is over What existed for me was ok man how much this work All new pattern was hard work you are my anything is a compost",
+      "visual_summary": "Scene 7 (17.2s): High action kinetic motion (motion: 25.0, brightness: 106)",
+      "story_role": "benefit",
+      "quality": 0.97
+    },
+    {
+      "start": 70.3,
+      "end": 78.8,
+      "transcript": "All new pattern was hard work you are my anything is a compost I'm not getting I can get this paragraph i can't remember with paragraph",
+      "visual_summary": "Scene 8 (8.5s): Balanced visual pacing (motion: 3.3, brightness: 57)",
+      "story_role": "dialogue",
+      "quality": 0.93
+    },
+    {
+      "start": 78.8,
+      "end": 87.23,
+      "transcript": "I can get this paragraph i can't remember with paragraph Video game read again",
+      "visual_summary": "Scene 9 (8.4s): High action kinetic motion (motion: 10.6, brightness: 138)",
+      "story_role": "benefit",
+      "quality": 0.97
+    },
+    {
+      "start": 87.23,
+      "end": 95.73,
+      "transcript": "Video game read again Ok google i get a better every thing i do in a very",
+      "visual_summary": "Scene 10 (8.5s): Balanced visual pacing (motion: 2.6, brightness: 87)",
+      "story_role": "benefit",
+      "quality": 0.93
+    },
+    {
+      "start": 95.73,
+      "end": 100.07,
+      "transcript": "Ok google i get a better every thing i do in a very",
+      "visual_summary": "Scene 11 (4.3s): Balanced visual pacing (motion: 6.7, brightness: 122)",
+      "story_role": "dialogue",
+      "quality": 0.97
+    },
+    {
+      "start": 100.07,
+      "end": 104.27,
+      "transcript": "Go back again go back again go back again",
+      "visual_summary": "Scene 12 (4.2s): Balanced visual pacing (motion: 4.7, brightness: 21)",
+      "story_role": "benefit",
+      "quality": 0.93
+    },
+    {
+      "start": 104.27,
+      "end": 112.9,
+      "transcript": "Go back again go back again go back again Keep going back in going",
+      "visual_summary": "Scene 13 (8.6s): Balanced visual pacing (motion: 7.2, brightness: 124)",
+      "story_role": "benefit",
+      "quality": 0.97
+    },
+    {
+      "start": 112.9,
+      "end": 123.6,
+      "transcript": "Keep going back in going Going back into this just becomes safe",
+      "visual_summary": "Scene 14 (10.7s): Balanced visual pacing (motion: 2.7, brightness: 21)",
+      "story_role": "dialogue",
+      "quality": 0.93
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "clip_id": "clip_005",
+  "filename": "upload_005_vid_5b3e25_WhatsApp_Video_2026-10-29_at_8.14.58_PM.mp4",
+  "duration": 119.566,
+  "summary": "upload_005_vid_5b3e25_WhatsApp_Video_2026-10-29_at_8.14.58_PM.mp4: 119.6s, 14 analyzed segments",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.37,
+      "transcript": "Nothing can burn you can burn dirt",
+      "visual_summary": "Scene 1 (1.4s): Balanced visual pacing (motion: 4.0, brightness: 62)",
+      "story_role": "introduction",
+      "quality": 0.93
+    },
+    {
+      "start": 1.37,
+      "end": 12.13,
+      "transcript": "Nothing can burn you can burn dirt So has to be done that low that literally is something you Industry spin",
+      "visual_summary": "Scene 2 (10.8s): High action kinetic motion (motion: 14.3, brightness: 70)",
+      "story_role": "introduction",
+      "quality": 0.97
+    },
+    {
+      "start": 12.13,
+      "end": 25.83,
+      "transcript": "Industry spin What you want to be in life i can get that When you find your true passion in life in my passion for me",
+      "visual_summary": "Scene 3 (13.7s): Balanced visual pacing (motion: 2.1, brightness: 78)",
+      "story_role": "dialogue",
+      "quality": 0.93
+    },
+    {
+      "start": 25.83,
+      "end": 36.97,
+      "transcript": "When you find your true passion in life in my passion for me My country i care about What to be someone that i am proud of i want to look at myself in america",
+      "visual_summary": "Scene 4 (11.1s): Balanced visual pacing (motion: 7.6, brightness: 22)",
+      "story_role": "dialogue",
+      "quality": 0.97
+    },
+    {
+      "start": 36.97,
+      "end": 47.77,
+      "transcript": "What to be someone that i am proud of i want to look at myself in america Beauty mirror talk about i was so disappointed what i thought",
+      "visual_summary": "Scene 5 (10.8s): High action kinetic motion (motion: 11.4, brightness: 92)",
+      "story_role": "dialogue",
+      "quality": 0.97
+    },
+    {
+      "start": 47.77,
+      "end": 52.2,
+      "transcript": "Beauty mirror talk about i was so disappointed what i thought I want everybody to love david goggins a lot of people",
+      "visual_summary": "Scene 6 (4.4s): Balanced visual pacing (motion: 2.7, brightness: 46)",
+      "story_role": "dialogue",
+      "quality": 0.93
+    },
+    {
+      "start": 52.2,
+      "end": 56.6,
+      "transcript": "I want everybody to love david goggins a lot of people I love myself but i know i was want to find",
+      "visual_summary": "Scene 7 (4.4s): Static low activity (motion: 1.1, brightness: 25)",
+      "story_role": "dialogue",
+      "quality": 0.93
+    },
+    {
+      "start": 56.6,
+      "end": 58.8,
+      "transcript": "I love myself but i know i was want to find",
+      "visual_summary": "Scene 8 (2.2s): Balanced visual pacing (motion: 1.8, brightness: 45)",
+      "story_role": "dialogue",
+      "quality": 0.93
+    },
+    {
+      "start": 58.8,
+      "end": 63.1,
+      "transcript": "I love myself but i know i was want to find Can you say about yourself",
+      "visual_summary": "Scene 9 (4.3s): Balanced visual pacing (motion: 4.5, brightness: 80)",
+      "story_role": "dialogue",
+      "quality": 0.93
+    },
+    {
+      "start": 63.1,
+      "end": 69.53,
+      "transcript": "Can you say about yourself You don't find peace first if you do merry christmas",
+      "visual_summary": "Scene 10 (6.4s): High action kinetic motion (motion: 9.2, brightness: 86)",
+      "story_role": "dialogue",
+      "quality": 0.97
+    },
+    {
+      "start": 69.53,
+      "end": 78.13,
+      "transcript": "You don't find peace first if you do merry christmas More party In a funny myself and no one really finds himself",
+      "visual_summary": "Scene 11 (8.6s): High action kinetic motion (motion: 10.8, brightness: 30)",
+      "story_role": "dialogue",
+      "quality": 0.97
+    },
+    {
+      "start": 78.13,
+      "end": 91.03,
+      "transcript": "In a funny myself and no one really finds himself Going to travel tribulations suffering i can ability in Is saffron",
+      "visual_summary": "Scene 12 (12.9s): Balanced visual pacing (motion: 6.8, brightness: 86)",
+      "story_role": "dialogue",
+      "quality": 0.97
+    },
+    {
+      "start": 91.03,
+      "end": 103.77,
+      "transcript": "Is saffron Please off the people next year mirzapur",
+      "visual_summary": "Scene 13 (12.7s): Balanced visual pacing (motion: 3.6, brightness: 136)",
+      "story_role": "dialogue",
+      "quality": 0.93
+    },
+    {
+      "start": 103.77,
+      "end": 119.57,
+      "transcript": "Visual narrative scene without spoken dialogue.",
+      "visual_summary": "Scene 14 (15.8s): Balanced visual pacing (motion: 4.8, brightness: 95)",
+      "story_role": "outro",
+      "quality": 0.85
+    }
+  ]
+}

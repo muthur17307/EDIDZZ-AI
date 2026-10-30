@@ -1,0 +1,53 @@
+{
+  "brief": "Create an engaging 15-second product commercial that establishes the keynote speaker, cuts to dynamic fast action b-roll to show the product in use, and concludes with a scenic outro.",
+  "clips": [
+    {
+      "clip_id": "clip_001",
+      "filename": "upload_001_vid_2b6f4c_keynote_speaker.mp4",
+      "duration": 12.0,
+      "summary": "upload_001_vid_2b6f4c_keynote_speaker.mp4: 12.0s, 1 analyzed segments",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 12.0,
+          "transcript": "Ambient or presentation visual framing; no spoken dialogue.",
+          "visual_summary": "Scene 1 (12.0s): Static low activity (motion: 0.0, brightness: 47)",
+          "story_role": "presentation",
+          "quality": 0.7
+        }
+      ]
+    },
+    {
+      "clip_id": "clip_002",
+      "filename": "upload_002_vid_7f8cb3_action_broll.mp4",
+      "duration": 10.0,
+      "summary": "upload_002_vid_7f8cb3_action_broll.mp4: 10.0s, 1 analyzed segments",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 10.0,
+          "transcript": "Visual narrative scene without spoken dialogue.",
+          "visual_summary": "Scene 1 (10.0s): Balanced visual pacing (motion: 6.7, brightness: 74)",
+          "story_role": "outro",
+          "quality": 0.89
+        }
+      ]
+    },
+    {
+      "clip_id": "clip_003",
+      "filename": "upload_003_vid_49e264_scenic_outro.mp4",
+      "duration": 10.0,
+      "summary": "upload_003_vid_49e264_scenic_outro.mp4: 10.0s, 1 analyzed segments",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 10.0,
+          "transcript": "Ambient or presentation visual framing; no spoken dialogue.",
+          "visual_summary": "Scene 1 (10.0s): Static low activity (motion: 0.0, brightness: 40)",
+          "story_role": "presentation",
+          "quality": 0.7
+        }
+      ]
+    }
+  ]
+}

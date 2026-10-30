@@ -1,0 +1,53 @@
+{
+  "brief": "High-energy commercial edit with hook dialogue and action b-roll",
+  "clips": [
+    {
+      "clip_id": "clip_001",
+      "filename": "upload_001_clip1_interview.mp4",
+      "duration": 12.0,
+      "summary": "upload_001_clip1_interview.mp4: 12.0s, 1 analyzed segments",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 12.0,
+          "transcript": "Ambient or presentation visual framing; no spoken dialogue.",
+          "visual_summary": "Scene 1 (12.0s): Static low activity (motion: 0.0, brightness: 47)",
+          "story_role": "presentation",
+          "quality": 0.7
+        }
+      ]
+    },
+    {
+      "clip_id": "clip_002",
+      "filename": "upload_002_clip2_action_broll.mp4",
+      "duration": 10.0,
+      "summary": "upload_002_clip2_action_broll.mp4: 10.0s, 1 analyzed segments",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 10.0,
+          "transcript": "Visual narrative scene without spoken dialogue.",
+          "visual_summary": "Scene 1 (10.0s): Balanced visual pacing (motion: 6.7, brightness: 74)",
+          "story_role": "outro",
+          "quality": 0.89
+        }
+      ]
+    },
+    {
+      "clip_id": "clip_003",
+      "filename": "upload_003_clip3_scenic_overview.mp4",
+      "duration": 10.0,
+      "summary": "upload_003_clip3_scenic_overview.mp4: 10.0s, 1 analyzed segments",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 10.0,
+          "transcript": "Ambient or presentation visual framing; no spoken dialogue.",
+          "visual_summary": "Scene 1 (10.0s): Static low activity (motion: 0.0, brightness: 40)",
+          "story_role": "presentation",
+          "quality": 0.7
+        }
+      ]
+    }
+  ]
+}

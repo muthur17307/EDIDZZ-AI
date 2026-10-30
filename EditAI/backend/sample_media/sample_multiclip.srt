@@ -1,0 +1,15 @@
+1
+00:00:01,000 --> 00:00:05,000
+Welcome to EditMind AI Video Assembly.
+
+2
+00:00:06,000 --> 00:00:10,000
+Examining source media and pacing.
+
+3
+00:00:12,000 --> 00:00:16,000
+High-energy visual cut assembled automatically.
+
+4
+00:00:18,000 --> 00:00:22,000
+Ready for user refinement and timeline inspection.

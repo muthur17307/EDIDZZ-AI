@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "total_proposed_segments": 3,
+  "accepted_segments": 1,
+  "review_item_count": 0,
+  "review_items": [],
+  "warnings": [
+    "Segment 1: duplicate source range skipped",
+    "Segment 2: duplicate source range skipped"
+  ]
+}

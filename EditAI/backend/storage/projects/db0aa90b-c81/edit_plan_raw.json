@@ -1,0 +1,30 @@
+{
+  "story_summary": "Cohesive editorial story synthesized across 1 source clips according to brief 'Create a cohesive narrative highlight edit that establishes the speaker intro, cuts to dynamic action b-roll, delivers the core message, and concludes with a scenic outro.'. The sequence opens with an establishing dialogue hook, transitions into dynamic action B-roll for pacing, articulates the core narrative message, and concludes with a scenic outro. 0 alternative/redundant segments were flagged for editorial review.",
+  "ordered_segments": [
+    {
+      "clip_id": "clip_001",
+      "start": 0.0,
+      "end": 2.58,
+      "decision": "keep",
+      "reason": "Strong opening hook from upload_001_vid_ba8403_Screen_Recording_2024-11-04_204506.mp4: establishes context and theme.",
+      "story_role": "introduction"
+    },
+    {
+      "clip_id": "clip_001",
+      "start": 0.0,
+      "end": 2.58,
+      "decision": "keep",
+      "reason": "Core value proposition from upload_001_vid_ba8403_Screen_Recording_2024-11-04_204506.mp4: delivers primary narrative message.",
+      "story_role": "core_message"
+    },
+    {
+      "clip_id": "clip_001",
+      "start": 0.0,
+      "end": 2.58,
+      "decision": "keep",
+      "reason": "Atmospheric closing sequence from upload_001_vid_ba8403_Screen_Recording_2024-11-04_204506.mp4: provides visual and narrative closure.",
+      "story_role": "outro"
+    }
+  ],
+  "review_items": []
+}

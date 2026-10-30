@@ -1,0 +1,30 @@
+{
+  "story_summary": "The video opens with a monologue by a speaker, followed by dynamic action b-roll that transitions smoothly into the action. The introduction sets the scene with a scenic overview, then the speaker provides context, and the b-roll supports the narrative with engaging visuals.",
+  "ordered_segments": [
+    {
+      "clip_id": "clip_001",
+      "start": 0.0,
+      "end": 12.0,
+      "decision": "keep",
+      "reason": "The speaker's monologue is the core of the introduction and provides necessary context.",
+      "story_role": "introduction"
+    },
+    {
+      "clip_id": "clip_002",
+      "start": 0.0,
+      "end": 10.0,
+      "decision": "keep",
+      "reason": "The action b-roll supports the speaker's monologue and adds dynamic visuals to the opening.",
+      "story_role": "action_broll"
+    }
+  ],
+  "review_items": [
+    {
+      "clip_id": "clip_003",
+      "start": 0.0,
+      "end": 10.0,
+      "reason": "The scenic overview is redundant with the action b-roll and does not add unique information."
+    }
+  ],
+  "validation_warnings": []
+}

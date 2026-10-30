@@ -1,0 +1,16 @@
+{
+  "clip_id": "clip_001",
+  "filename": "upload_001_vid_ba8403_Screen_Recording_2024-11-04_204506.mp4",
+  "duration": 2.533,
+  "summary": "upload_001_vid_ba8403_Screen_Recording_2024-11-04_204506.mp4: 2.6s, 1 analyzed segments",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.58,
+      "transcript": "Ambient or presentation visual framing; no spoken dialogue.",
+      "visual_summary": "Scene 1 (2.6s): Static low activity (motion: 0.0, brightness: 43)",
+      "story_role": "outro",
+      "quality": 0.7
+    }
+  ]
+}

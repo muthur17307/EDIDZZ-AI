@@ -1,0 +1,15 @@
+1
+00:00:01,000 --> 00:00:08,000
+Welcome to AI Video Studio - Intelligent Video Editor prototype.
+
+2
+00:00:10,500 --> 00:00:17,500
+This is Scene 2 demonstrating automated scene analysis.
+
+3
+00:00:18,500 --> 00:00:24,500
+This is the target segment from 00:18 to 00:25 for splitting and deleting.
+
+4
+00:00:25,500 --> 00:00:29,500
+Export your final edited video with synchronized audio and subtitles.

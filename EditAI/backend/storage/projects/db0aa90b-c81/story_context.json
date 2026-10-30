@@ -1,0 +1,49 @@
+{
+  "brief": "Create a cohesive narrative highlight edit that establishes the speaker intro, cuts to dynamic action b-roll, delivers the core message, and concludes with a scenic outro.",
+  "clip_count": 1,
+  "clips": [
+    {
+      "clip_id": "clip_001",
+      "duration": 2.533,
+      "filename": "upload_001_vid_ba8403_Screen_Recording_2024-11-04_204506.mp4",
+      "summary": "upload_001_vid_ba8403_Screen_Recording_2024-11-04_204506.mp4: 2.6s, 1 analyzed segments",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 2.58,
+          "transcript": "Ambient or presentation visual framing; no spoken dialogue.",
+          "visual_summary": "Scene 1 (2.6s): Static low activity (motion: 0.0, brightness: 43)",
+          "story_role": "outro",
+          "quality": 0.7
+        }
+      ]
+    }
+  ],
+  "segments": [
+    {
+      "segment_id": "clip_001_seg_0000",
+      "clip_id": "clip_001",
+      "start": 0.0,
+      "end": 2.58,
+      "transcript": "Ambient or presentation visual framing; no spoken dialogue.",
+      "visual_summary": "Scene 1 (2.6s): Static low activity (motion: 0.0, brightness: 43)",
+      "story_role": "outro",
+      "quality": 0.7
+    }
+  ],
+  "segments_by_story_role": {
+    "outro": [
+      "clip_001_seg_0000"
+    ]
+  },
+  "editorial_instructions": [
+    "Treat all clips as one story.",
+    "Do not assume upload order is story order.",
+    "Compare statements across every source clip.",
+    "Keep the clearest complete version of repeated information.",
+    "Preserve unique facts, qualifications, and useful context.",
+    "Use B-roll when it supports the spoken narrative.",
+    "Keep uncertain removals in a review list.",
+    "Return exact source clip IDs and source timestamps."
+  ]
+}

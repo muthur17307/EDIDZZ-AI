@@ -1,0 +1,112 @@
+{
+  "clip_id": "clip_002",
+  "filename": "upload_002_vid_34f198_WhatsApp_Video_2026-10-29_at_8.02.53_PM.mp4",
+  "duration": 121.466,
+  "summary": "upload_002_vid_34f198_WhatsApp_Video_2026-10-29_at_8.02.53_PM.mp4: 121.5s, 13 analyzed segments",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 13.77,
+      "transcript": "Because he is not going to stop it Go back against of no way out",
+      "visual_summary": "Scene 1 (13.8s): Balanced visual pacing (motion: 7.2, brightness: 22)",
+      "story_role": "introduction",
+      "quality": 0.97
+    },
+    {
+      "start": 13.77,
+      "end": 27.07,
+      "transcript": "Go back against of no way out It's ok now Trying hard day you may",
+      "visual_summary": "Scene 2 (13.3s): High action kinetic motion (motion: 29.9, brightness: 102)",
+      "story_role": "benefit",
+      "quality": 0.97
+    },
+    {
+      "start": 27.07,
+      "end": 33.73,
+      "transcript": "Trying hard day you may How are you",
+      "visual_summary": "Scene 3 (6.7s): Balanced visual pacing (motion: 5.7, brightness: 84)",
+      "story_role": "dialogue",
+      "quality": 0.93
+    },
+    {
+      "start": 33.73,
+      "end": 44.53,
+      "transcript": "How are you In one year How did you do that i talk about the new note",
+      "visual_summary": "Scene 4 (10.8s): High action kinetic motion (motion: 10.6, brightness: 31)",
+      "story_role": "dialogue",
+      "quality": 0.97
+    },
+    {
+      "start": 44.53,
+      "end": 48.87,
+      "transcript": "How did you do that i talk about the new note My place now you are not working time i loved it i know i",
+      "visual_summary": "Scene 5 (4.3s): Static low activity (motion: 1.4, brightness: 28)",
+      "story_role": "dialogue",
+      "quality": 0.93
+    },
+    {
+      "start": 48.87,
+      "end": 53.3,
+      "transcript": "My place now you are not working time i loved it i know i",
+      "visual_summary": "Scene 6 (4.4s): Static low activity (motion: 1.5, brightness: 73)",
+      "story_role": "dialogue",
+      "quality": 0.93
+    },
+    {
+      "start": 53.3,
+      "end": 61.87,
+      "transcript": "My place now you are not working time i loved it i know i What remove 236 But if",
+      "visual_summary": "Scene 7 (8.6s): High action kinetic motion (motion: 18.2, brightness: 134)",
+      "story_role": "dialogue",
+      "quality": 0.97
+    },
+    {
+      "start": 61.87,
+      "end": 66.13,
+      "transcript": "But if 7 download please",
+      "visual_summary": "Scene 8 (4.3s): High action kinetic motion (motion: 21.6, brightness: 109)",
+      "story_role": "dialogue",
+      "quality": 0.97
+    },
+    {
+      "start": 66.13,
+      "end": 70.53,
+      "transcript": "7 download please",
+      "visual_summary": "Scene 9 (4.4s): Balanced visual pacing (motion: 6.8, brightness: 40)",
+      "story_role": "dialogue",
+      "quality": 0.97
+    },
+    {
+      "start": 70.53,
+      "end": 83.2,
+      "transcript": "7 download please Go back to all the hard part over",
+      "visual_summary": "Scene 10 (12.7s): Balanced visual pacing (motion: 2.4, brightness: 22)",
+      "story_role": "dialogue",
+      "quality": 0.93
+    },
+    {
+      "start": 83.2,
+      "end": 91.77,
+      "transcript": "Go back to all the hard part over I told myself at the first time i will be a long journey there my body was break My mind",
+      "visual_summary": "Scene 11 (8.6s): High action kinetic motion (motion: 18.7, brightness: 66)",
+      "story_role": "dialogue",
+      "quality": 0.97
+    },
+    {
+      "start": 91.77,
+      "end": 108.6,
+      "transcript": "My mind I want to servant everyday every Bheem broken",
+      "visual_summary": "Scene 12 (16.8s): High action kinetic motion (motion: 29.3, brightness: 140)",
+      "story_role": "dialogue",
+      "quality": 0.97
+    },
+    {
+      "start": 108.6,
+      "end": 121.47,
+      "transcript": "11b broken so then you might offer",
+      "visual_summary": "Scene 13 (12.9s): High action kinetic motion (motion: 47.5, brightness: 85)",
+      "story_role": "dialogue",
+      "quality": 0.97
+    }
+  ]
+}

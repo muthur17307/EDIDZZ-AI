@@ -1,0 +1,15 @@
+{
+  "status": "passed_with_review",
+  "total_proposed_segments": 2,
+  "accepted_segments": 2,
+  "review_item_count": 1,
+  "review_items": [
+    {
+      "clip_id": "clip_003",
+      "start": 0.0,
+      "end": 10.0,
+      "reason": "The scenic overview is redundant with the action b-roll and does not add unique information."
+    }
+  ],
+  "warnings": []
+}

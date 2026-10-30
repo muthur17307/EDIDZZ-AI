@@ -1,0 +1,128 @@
+{
+  "clip_id": "clip_003",
+  "filename": "upload_003_vid_77ce0f_WhatsApp_Video_2026-10-29_at_8.04.29_PM.mp4",
+  "duration": 121.634,
+  "summary": "upload_003_vid_77ce0f_WhatsApp_Video_2026-10-29_at_8.04.29_PM.mp4: 121.7s, 15 analyzed segments",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.37,
+      "transcript": "Broken broken scenes my mind this is how",
+      "visual_summary": "Scene 1 (7.4s): High action kinetic motion (motion: 40.7, brightness: 90)",
+      "story_role": "introduction",
+      "quality": 0.97
+    },
+    {
+      "start": 7.37,
+      "end": 27.77,
+      "transcript": "Can you know again mass of no way out there was nothing outside nothing That was hell I became the boss the owner of the ceo of navy seal training that was my",
+      "visual_summary": "Scene 2 (20.4s): Balanced visual pacing (motion: 4.8, brightness: 60)",
+      "story_role": "benefit",
+      "quality": 0.93
+    },
+    {
+      "start": 27.77,
+      "end": 30.03,
+      "transcript": "I became the boss the owner of the ceo of navy seal training that was my That's how you get two things you put yourself every",
+      "visual_summary": "Scene 3 (2.3s): Balanced visual pacing (motion: 4.7, brightness: 52)",
+      "story_role": "benefit",
+      "quality": 0.93
+    },
+    {
+      "start": 30.03,
+      "end": 36.77,
+      "transcript": "That's how you get two things you put yourself every",
+      "visual_summary": "Scene 4 (6.7s): High action kinetic motion (motion: 20.5, brightness: 65)",
+      "story_role": "dialogue",
+      "quality": 0.97
+    },
+    {
+      "start": 36.77,
+      "end": 45.47,
+      "transcript": "Now tours and 97 pounds in our body may be ceo the",
+      "visual_summary": "Scene 5 (8.7s): High action kinetic motion (motion: 18.4, brightness: 56)",
+      "story_role": "dialogue",
+      "quality": 0.97
+    },
+    {
+      "start": 45.47,
+      "end": 54.17,
+      "transcript": "Now tours and 97 pounds in our body may be ceo the Was that that could have been the rest of my life Then i was trying hard that's a scary thing in the world",
+      "visual_summary": "Scene 6 (8.7s): Balanced visual pacing (motion: 5.2, brightness: 109)",
+      "story_role": "dialogue",
+      "quality": 0.93
+    },
+    {
+      "start": 54.17,
+      "end": 65.0,
+      "transcript": "Then i was trying hard that's a scary thing in the world Working for eco labs pray for cockroaches making of $1000",
+      "visual_summary": "Scene 7 (10.8s): High action kinetic motion (motion: 37.5, brightness: 70)",
+      "story_role": "dialogue",
+      "quality": 0.97
+    },
+    {
+      "start": 65.0,
+      "end": 67.33,
+      "transcript": "Working for eco labs pray for cockroaches making of $1000 That was me at my worst person",
+      "visual_summary": "Scene 8 (2.3s): Static low activity (motion: 1.2, brightness: 22)",
+      "story_role": "dialogue",
+      "quality": 0.93
+    },
+    {
+      "start": 67.33,
+      "end": 80.07,
+      "transcript": "That was me at my worst person A few years later i was never knew that 1006 po Graduate navy soldier training we don't do all the things looking back on that that was",
+      "visual_summary": "Scene 9 (12.7s): Balanced visual pacing (motion: 4.8, brightness: 21)",
+      "story_role": "benefit",
+      "quality": 0.93
+    },
+    {
+      "start": 80.07,
+      "end": 97.0,
+      "transcript": "Graduate navy soldier training we don't do all the things looking back on that that was What is indus we have no This is my new number wow this is always fun",
+      "visual_summary": "Scene 10 (16.9s): High action kinetic motion (motion: 11.6, brightness: 74)",
+      "story_role": "benefit",
+      "quality": 0.97
+    },
+    {
+      "start": 97.0,
+      "end": 103.2,
+      "transcript": "This is my new number wow this is always fun Is not always meant to be fun and that's why you know your childhood",
+      "visual_summary": "Scene 11 (6.2s): Balanced visual pacing (motion: 6.8, brightness: 33)",
+      "story_role": "dialogue",
+      "quality": 0.97
+    },
+    {
+      "start": 103.2,
+      "end": 109.63,
+      "transcript": "Is not always meant to be fun and that's why you know your childhood People hear my stories",
+      "visual_summary": "Scene 12 (6.4s): High action kinetic motion (motion: 9.2, brightness: 30)",
+      "story_role": "dialogue",
+      "quality": 0.97
+    },
+    {
+      "start": 109.63,
+      "end": 112.27,
+      "transcript": "People hear my stories",
+      "visual_summary": "Scene 13 (2.6s): Balanced visual pacing (motion: 5.9, brightness: 51)",
+      "story_role": "dialogue",
+      "quality": 0.93
+    },
+    {
+      "start": 112.27,
+      "end": 116.1,
+      "transcript": "People hear my stories",
+      "visual_summary": "Scene 14 (3.8s): High action kinetic motion (motion: 27.1, brightness: 44)",
+      "story_role": "dialogue",
+      "quality": 0.97
+    },
+    {
+      "start": 116.1,
+      "end": 121.63,
+      "transcript": "High kinetic motion visual sequence with ambient audio.",
+      "visual_summary": "Scene 15 (5.5s): High action kinetic motion (motion: 23.8, brightness: 61)",
+      "story_role": "action_broll",
+      "quality": 0.89
+    }
+  ]
+}

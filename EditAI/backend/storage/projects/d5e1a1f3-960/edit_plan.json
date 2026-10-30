@@ -1,0 +1,39 @@
+{
+  "story_summary": "Cohesive editorial story synthesized across 3 source clips according to brief 'Create a dynamic product showcase highlighting the speaker and fast action.'. The sequence opens with an establishing dialogue hook, transitions into dynamic action B-roll for pacing, articulates the core narrative message, and concludes with a scenic outro. 0 alternative/redundant segments were flagged for editorial review.",
+  "ordered_segments": [
+    {
+      "clip_id": "clip_001",
+      "start": 0.0,
+      "end": 5.0,
+      "decision": "keep",
+      "reason": "Strong opening hook from upload_001_clip1_interview.mp4: establishes context and theme.",
+      "story_role": "introduction"
+    },
+    {
+      "clip_id": "clip_002",
+      "start": 0.0,
+      "end": 4.5,
+      "decision": "keep",
+      "reason": "Dynamic action sequence from upload_002_clip2_action_broll.mp4: accelerates visual pacing.",
+      "story_role": "action_broll"
+    },
+    {
+      "clip_id": "clip_003",
+      "start": 0.0,
+      "end": 5.0,
+      "decision": "keep",
+      "reason": "Core value proposition from upload_003_clip3_scenic_overview.mp4: delivers primary narrative message.",
+      "story_role": "core_message"
+    },
+    {
+      "clip_id": "clip_002",
+      "start": 5.5,
+      "end": 10.0,
+      "decision": "keep",
+      "reason": "Atmospheric closing sequence from upload_002_clip2_action_broll.mp4: provides visual and narrative closure.",
+      "story_role": "outro"
+    }
+  ],
+  "review_items": [],
+  "validation_warnings": []
+}

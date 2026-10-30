@@ -1,0 +1,58 @@
+# Virtual Environments
+ryt/
+.venv/
+venv/
+env/
+.env
+
+# Python Cache & Compiled Code
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Node & Frontend
+node_modules/
+frontend/node_modules/
+.npm/
+
+# Local SQLite Database
+*.db
+*.sqlite
+*.sqlite3
+backend/*.db
+
+# Media Processing, Uploads, Exports & Thumbnails
+backend/uploads/
+backend/exports/
+backend/thumbnails/
+uploads/
+exports/
+thumbnails/
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.mkv
+*.avi
+*.webm
+
+# Generated Thumbnails from Video Processing
+backend/uploads/thumbnails/
+*.jpg
+*.jpeg
+*.png
+
+# Keep sample assets & UI assets
+!backend/sample_media/
+!backend/sample_media/*
+!frontend/src/assets/
+!frontend/src/assets/*
+!frontend/public/
+!frontend/public/*
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

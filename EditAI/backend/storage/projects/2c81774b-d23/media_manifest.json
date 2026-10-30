@@ -1,0 +1,38 @@
+[
+  {
+    "clip_id": "clip_001",
+    "path": "C:\\Users\\user\\Desktop\\RYHATHON - 2026\\EditAI\\backend\\storage\\projects\\2c81774b-d23\\source\\upload_001_vid_64ec0c_WhatsApp_Video_2026-10-29_at_7.59.24_PM.mp4",
+    "filename": "upload_001_vid_64ec0c_WhatsApp_Video_2026-10-29_at_7.59.24_PM.mp4",
+    "duration": 123.599
+  },
+  {
+    "clip_id": "clip_002",
+    "path": "C:\\Users\\user\\Desktop\\RYHATHON - 2026\\EditAI\\backend\\storage\\projects\\2c81774b-d23\\source\\upload_002_vid_d1c7e7_WhatsApp_Video_2026-10-29_at_8.02.53_PM.mp4",
+    "filename": "upload_002_vid_d1c7e7_WhatsApp_Video_2026-10-29_at_8.02.53_PM.mp4",
+    "duration": 121.466
+  },
+  {
+    "clip_id": "clip_003",
+    "path": "C:\\Users\\user\\Desktop\\RYHATHON - 2026\\EditAI\\backend\\storage\\projects\\2c81774b-d23\\source\\upload_003_vid_77ce0f_WhatsApp_Video_2026-10-29_at_8.04.29_PM.mp4",
+    "filename": "upload_003_vid_77ce0f_WhatsApp_Video_2026-10-29_at_8.04.29_PM.mp4",
+    "duration": 121.634
+  },
+  {
+    "clip_id": "clip_004",
+    "path": "C:\\Users\\user\\Desktop\\RYHATHON - 2026\\EditAI\\backend\\storage\\projects\\2c81774b-d23\\source\\upload_004_vid_696bc1_WhatsApp_Video_2026-10-29_at_8.05.56_PM.mp4",
+    "filename": "upload_004_vid_696bc1_WhatsApp_Video_2026-10-29_at_8.05.56_PM.mp4",
+    "duration": 126.899
+  },
+  {
+    "clip_id": "clip_005",
+    "path": "C:\\Users\\user\\Desktop\\RYHATHON - 2026\\EditAI\\backend\\storage\\projects\\2c81774b-d23\\source\\upload_005_vid_37f4b3_WhatsApp_Video_2026-10-29_at_8.14.58_PM.mp4",
+    "filename": "upload_005_vid_37f4b3_WhatsApp_Video_2026-10-29_at_8.14.58_PM.mp4",
+    "duration": 119.566
+  },
+  {
+    "clip_id": "clip_006",
+    "path": "C:\\Users\\user\\Desktop\\RYHATHON - 2026\\EditAI\\backend\\storage\\projects\\2c81774b-d23\\source\\upload_006_vid_28b573_WhatsApp_Video_2026-10-29_at_7.58.14_PM.mp4",
+    "filename": "upload_006_vid_28b573_WhatsApp_Video_2026-10-29_at_7.58.14_PM.mp4",
+    "duration": 615.048
+  }
+]

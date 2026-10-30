@@ -1,0 +1,30 @@
+{
+  "story_summary": "The video opens with a monologue from a speaker, followed by dynamic action b-roll to transition into the main content.",
+  "ordered_segments": [
+    {
+      "clip_id": "clip_001",
+      "start": 0.0,
+      "end": 12.0,
+      "decision": "keep",
+      "reason": "The monologue provides necessary context and is the primary content of the opening segment.",
+      "story_role": "introduction"
+    },
+    {
+      "clip_id": "clip_002",
+      "start": 0.0,
+      "end": 10.0,
+      "decision": "keep",
+      "reason": "The action b-roll supports the spoken narrative and adds visual interest, making it a natural transition.",
+      "story_role": "transition"
+    }
+  ],
+  "review_items": [
+    {
+      "clip_id": "clip_003",
+      "start": 0.0,
+      "end": 10.0,
+      "reason": "The scenic overview is redundant with the monologue and action b-roll, and thus is not included."
+    }
+  ],
+  "validation_warnings": []
+}

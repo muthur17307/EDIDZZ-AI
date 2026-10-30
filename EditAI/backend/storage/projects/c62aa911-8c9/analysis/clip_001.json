@@ -1,0 +1,16 @@
+{
+  "clip_id": "clip_001",
+  "filename": "upload_001_vid_63877c_keynote_speaker.mp4",
+  "duration": 12.0,
+  "summary": "upload_001_vid_63877c_keynote_speaker.mp4: 12.0s, 1 analyzed segments",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.0,
+      "transcript": "Ambient or presentation visual framing; no spoken dialogue.",
+      "visual_summary": "Scene 1 (12.0s): Static low activity (motion: 0.0, brightness: 47)",
+      "story_role": "presentation",
+      "quality": 0.7
+    }
+  ]
+}

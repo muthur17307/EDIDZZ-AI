@@ -1,0 +1,186 @@
+{
+  "story_summary": "Cohesive editorial story synthesized across 6 source clips according to brief 'Create a cohesive narrative highlight edit that establishes the speaker intro, cuts to dynamic action b-roll, delivers the core message, and concludes with a scenic outro.'. The sequence opens with an establishing dialogue hook, transitions into dynamic action B-roll for pacing, articulates the core narrative message, and concludes with a scenic outro. 21 alternative/redundant segments were flagged for editorial review.",
+  "ordered_segments": [
+    {
+      "clip_id": "clip_002",
+      "start": 0.0,
+      "end": 5.0,
+      "decision": "keep",
+      "reason": "Strong opening hook from upload_002_vid_d1c7e7_WhatsApp_Video_2026-10-29_at_8.02.53_PM.mp4: establishes context and theme.",
+      "story_role": "introduction"
+    },
+    {
+      "clip_id": "clip_003",
+      "start": 116.1,
+      "end": 120.6,
+      "decision": "keep",
+      "reason": "Dynamic action sequence from upload_003_vid_77ce0f_WhatsApp_Video_2026-10-29_at_8.04.29_PM.mp4: accelerates visual pacing.",
+      "story_role": "action_broll"
+    },
+    {
+      "clip_id": "clip_001",
+      "start": 53.13,
+      "end": 58.13,
+      "decision": "keep",
+      "reason": "Core value proposition from upload_001_vid_64ec0c_WhatsApp_Video_2026-10-29_at_7.59.24_PM.mp4: delivers primary narrative message.",
+      "story_role": "core_message"
+    },
+    {
+      "clip_id": "clip_006",
+      "start": 610.55,
+      "end": 615.05,
+      "decision": "keep",
+      "reason": "Atmospheric closing sequence from upload_006_vid_28b573_WhatsApp_Video_2026-10-29_at_7.58.14_PM.mp4: provides visual and narrative closure.",
+      "story_role": "outro"
+    }
+  ],
+  "review_items": [
+    {
+      "clip_id": "clip_003",
+      "start": 0.0,
+      "end": 7.37,
+      "reason": "Alternate opening take from upload_003_vid_77ce0f_WhatsApp_Video_2026-10-29_at_8.04.29_PM.mp4; higher-quality take selected for timeline.",
+      "story_role": "introduction"
+    },
+    {
+      "clip_id": "clip_004",
+      "start": 0.0,
+      "end": 0.67,
+      "reason": "Alternate opening take from upload_004_vid_696bc1_WhatsApp_Video_2026-10-29_at_8.05.56_PM.mp4; higher-quality take selected for timeline.",
+      "story_role": "introduction"
+    },
+    {
+      "clip_id": "clip_001",
+      "start": 0.0,
+      "end": 7.67,
+      "reason": "Static low-motion segment in upload_001_vid_64ec0c_WhatsApp_Video_2026-10-29_at_7.59.24_PM.mp4; omitted to prevent pacing drag.",
+      "story_role": "introduction"
+    },
+    {
+      "clip_id": "clip_001",
+      "start": 31.4,
+      "end": 37.9,
+      "reason": "Static low-motion segment in upload_001_vid_64ec0c_WhatsApp_Video_2026-10-29_at_7.59.24_PM.mp4; omitted to prevent pacing drag.",
+      "story_role": "benefit"
+    },
+    {
+      "clip_id": "clip_002",
+      "start": 44.53,
+      "end": 48.87,
+      "reason": "Static low-motion segment in upload_002_vid_d1c7e7_WhatsApp_Video_2026-10-29_at_8.02.53_PM.mp4; omitted to prevent pacing drag.",
+      "story_role": "dialogue"
+    },
+    {
+      "clip_id": "clip_002",
+      "start": 48.87,
+      "end": 53.3,
+      "reason": "Static low-motion segment in upload_002_vid_d1c7e7_WhatsApp_Video_2026-10-29_at_8.02.53_PM.mp4; omitted to prevent pacing drag.",
+      "story_role": "dialogue"
+    },
+    {
+      "clip_id": "clip_003",
+      "start": 65.0,
+      "end": 67.33,
+      "reason": "Static low-motion segment in upload_003_vid_77ce0f_WhatsApp_Video_2026-10-29_at_8.04.29_PM.mp4; omitted to prevent pacing drag.",
+      "story_role": "dialogue"
+    },
+    {
+      "clip_id": "clip_004",
+      "start": 0.0,
+      "end": 0.67,
+      "reason": "Very short segment (0.67s) in upload_004_vid_696bc1_WhatsApp_Video_2026-10-29_at_8.05.56_PM.mp4; flagged for duration review.",
+      "story_role": "introduction"
+    },
+    {
+      "clip_id": "clip_004",
+      "start": 73.03,
+      "end": 77.47,
+      "reason": "Static low-motion segment in upload_004_vid_696bc1_WhatsApp_Video_2026-10-29_at_8.05.56_PM.mp4; omitted to prevent pacing drag.",
+      "story_role": "dialogue"
+    },
+    {
+      "clip_id": "clip_004",
+      "start": 86.07,
+      "end": 90.17,
+      "reason": "Static low-motion segment in upload_004_vid_696bc1_WhatsApp_Video_2026-10-29_at_8.05.56_PM.mp4; omitted to prevent pacing drag.",
+      "story_role": "benefit"
+    },
+    {
+      "clip_id": "clip_004",
+      "start": 90.17,
+      "end": 103.0,
+      "reason": "Static low-motion segment in upload_004_vid_696bc1_WhatsApp_Video_2026-10-29_at_8.05.56_PM.mp4; omitted to prevent pacing drag.",
+      "story_role": "benefit"
+    },
+    {
+      "clip_id": "clip_005",
+      "start": 52.2,
+      "end": 56.6,
+      "reason": "Static low-motion segment in upload_005_vid_37f4b3_WhatsApp_Video_2026-10-29_at_8.14.58_PM.mp4; omitted to prevent pacing drag.",
+      "story_role": "dialogue"
+    },
+    {
+      "clip_id": "clip_006",
+      "start": 0.0,
+      "end": 7.67,
+      "reason": "Static low-motion segment in upload_006_vid_28b573_WhatsApp_Video_2026-10-29_at_7.58.14_PM.mp4; omitted to prevent pacing drag.",
+      "story_role": "introduction"
+    },
+    {
+      "clip_id": "clip_006",
+      "start": 31.4,
+      "end": 37.9,
+      "reason": "Static low-motion segment in upload_006_vid_28b573_WhatsApp_Video_2026-10-29_at_7.58.14_PM.mp4; omitted to prevent pacing drag.",
+      "story_role": "benefit"
+    },
+    {
+      "clip_id": "clip_006",
+      "start": 168.07,
+      "end": 172.41,
+      "reason": "Static low-motion segment in upload_006_vid_28b573_WhatsApp_Video_2026-10-29_at_7.58.14_PM.mp4; omitted to prevent pacing drag.",
+      "story_role": "dialogue"
+    },
+    {
+      "clip_id": "clip_006",
+      "start": 172.41,
+      "end": 176.81,
+      "reason": "Static low-motion segment in upload_006_vid_28b573_WhatsApp_Video_2026-10-29_at_7.58.14_PM.mp4; omitted to prevent pacing drag.",
+      "story_role": "dialogue"
+    },
+    {
+      "clip_id": "clip_006",
+      "start": 311.24,
+      "end": 313.58,
+      "reason": "Static low-motion segment in upload_006_vid_28b573_WhatsApp_Video_2026-10-29_at_7.58.14_PM.mp4; omitted to prevent pacing drag.",
+      "story_role": "dialogue"
+    },
+    {
+      "clip_id": "clip_006",
+      "start": 441.27,
+      "end": 445.71,
+      "reason": "Static low-motion segment in upload_006_vid_28b573_WhatsApp_Video_2026-10-29_at_7.58.14_PM.mp4; omitted to prevent pacing drag.",
+      "story_role": "dialogue"
+    },
+    {
+      "clip_id": "clip_006",
+      "start": 454.32,
+      "end": 458.43,
+      "reason": "Static low-motion segment in upload_006_vid_28b573_WhatsApp_Video_2026-10-29_at_7.58.14_PM.mp4; omitted to prevent pacing drag.",
+      "story_role": "benefit"
+    },
+    {
+      "clip_id": "clip_006",
+      "start": 458.43,
+      "end": 471.24,
+      "reason": "Static low-motion segment in upload_006_vid_28b573_WhatsApp_Video_2026-10-29_at_7.58.14_PM.mp4; omitted to prevent pacing drag.",
+      "story_role": "dialogue"
+    },
+    {
+      "clip_id": "clip_006",
+      "start": 547.68,
+      "end": 552.09,
+      "reason": "Static low-motion segment in upload_006_vid_28b573_WhatsApp_Video_2026-10-29_at_7.58.14_PM.mp4; omitted to prevent pacing drag.",
+      "story_role": "dialogue"
+    }
+  ]
+}

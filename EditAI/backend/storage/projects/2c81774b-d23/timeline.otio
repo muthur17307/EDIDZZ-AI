@@ -1,0 +1,191 @@
+{
+    "OTIO_SCHEMA": "Timeline.1",
+    "metadata": {},
+    "name": "AI Story Edit",
+    "global_start_time": null,
+    "tracks": {
+        "OTIO_SCHEMA": "Stack.1",
+        "metadata": {},
+        "name": "tracks",
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "color": null,
+        "children": [
+            {
+                "OTIO_SCHEMA": "Track.1",
+                "metadata": {},
+                "name": "Main Video",
+                "source_range": null,
+                "effects": [],
+                "markers": [],
+                "enabled": true,
+                "color": null,
+                "children": [
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "AIEdit": {
+                                "clip_id": "clip_002",
+                                "reason": "Strong opening hook from upload_002_vid_d1c7e7_WhatsApp_Video_2026-10-29_at_8.02.53_PM.mp4: establishes context and theme.",
+                                "source_filename": "upload_002_vid_d1c7e7_WhatsApp_Video_2026-10-29_at_8.02.53_PM.mp4",
+                                "story_role": "introduction"
+                            }
+                        },
+                        "name": "clip_002: Strong opening hook from upload_002_vid_d1c7e7_WhatsApp_Video_2026-10-29_at_8.02.53_PM.mp4: establishes context and theme.",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 1.0,
+                                "value": 5.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 1.0,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "color": null,
+                        "media_references": {
+                            "DEFAULT_MEDIA": {
+                                "OTIO_SCHEMA": "ExternalReference.1",
+                                "metadata": {},
+                                "name": "",
+                                "available_range": null,
+                                "available_image_bounds": null,
+                                "target_url": "file:///C:/Users/user/Desktop/RYHATHON%20-%202026/EditAI/backend/storage/projects/2c81774b-d23/source/upload_002_vid_d1c7e7_WhatsApp_Video_2026-10-29_at_8.02.53_PM.mp4"
+                            }
+                        },
+                        "active_media_reference_key": "DEFAULT_MEDIA"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "AIEdit": {
+                                "clip_id": "clip_003",
+                                "reason": "Dynamic action sequence from upload_003_vid_77ce0f_WhatsApp_Video_2026-10-29_at_8.04.29_PM.mp4: accelerates visual pacing.",
+                                "source_filename": "upload_003_vid_77ce0f_WhatsApp_Video_2026-10-29_at_8.04.29_PM.mp4",
+                                "story_role": "action_broll"
+                            }
+                        },
+                        "name": "clip_003: Dynamic action sequence from upload_003_vid_77ce0f_WhatsApp_Video_2026-10-29_at_8.04.29_PM.mp4: accelerates visual pacing.",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 1.0,
+                                "value": 4.5
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 1.0,
+                                "value": 116.1
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "color": null,
+                        "media_references": {
+                            "DEFAULT_MEDIA": {
+                                "OTIO_SCHEMA": "ExternalReference.1",
+                                "metadata": {},
+                                "name": "",
+                                "available_range": null,
+                                "available_image_bounds": null,
+                                "target_url": "file:///C:/Users/user/Desktop/RYHATHON%20-%202026/EditAI/backend/storage/projects/2c81774b-d23/source/upload_003_vid_77ce0f_WhatsApp_Video_2026-10-29_at_8.04.29_PM.mp4"
+                            }
+                        },
+                        "active_media_reference_key": "DEFAULT_MEDIA"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "AIEdit": {
+                                "clip_id": "clip_001",
+                                "reason": "Core value proposition from upload_001_vid_64ec0c_WhatsApp_Video_2026-10-29_at_7.59.24_PM.mp4: delivers primary narrative message.",
+                                "source_filename": "upload_001_vid_64ec0c_WhatsApp_Video_2026-10-29_at_7.59.24_PM.mp4",
+                                "story_role": "core_message"
+                            }
+                        },
+                        "name": "clip_001: Core value proposition from upload_001_vid_64ec0c_WhatsApp_Video_2026-10-29_at_7.59.24_PM.mp4: delivers primary narrative message.",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 1.0,
+                                "value": 5.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 1.0,
+                                "value": 53.13
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "color": null,
+                        "media_references": {
+                            "DEFAULT_MEDIA": {
+                                "OTIO_SCHEMA": "ExternalReference.1",
+                                "metadata": {},
+                                "name": "",
+                                "available_range": null,
+                                "available_image_bounds": null,
+                                "target_url": "file:///C:/Users/user/Desktop/RYHATHON%20-%202026/EditAI/backend/storage/projects/2c81774b-d23/source/upload_001_vid_64ec0c_WhatsApp_Video_2026-10-29_at_7.59.24_PM.mp4"
+                            }
+                        },
+                        "active_media_reference_key": "DEFAULT_MEDIA"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "AIEdit": {
+                                "clip_id": "clip_006",
+                                "reason": "Atmospheric closing sequence from upload_006_vid_28b573_WhatsApp_Video_2026-10-29_at_7.58.14_PM.mp4: provides visual and narrative closure.",
+                                "source_filename": "upload_006_vid_28b573_WhatsApp_Video_2026-10-29_at_7.58.14_PM.mp4",
+                                "story_role": "outro"
+                            }
+                        },
+                        "name": "clip_006: Atmospheric closing sequence from upload_006_vid_28b573_WhatsApp_Video_2026-10-29_at_7.58.14_PM.mp4: provides visual and narrative closure.",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 1.0,
+                                "value": 4.498000000000047
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 1.0,
+                                "value": 610.55
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "color": null,
+                        "media_references": {
+                            "DEFAULT_MEDIA": {
+                                "OTIO_SCHEMA": "ExternalReference.1",
+                                "metadata": {},
+                                "name": "",
+                                "available_range": null,
+                                "available_image_bounds": null,
+                                "target_url": "file:///C:/Users/user/Desktop/RYHATHON%20-%202026/EditAI/backend/storage/projects/2c81774b-d23/source/upload_006_vid_28b573_WhatsApp_Video_2026-10-29_at_7.58.14_PM.mp4"
+                            }
+                        },
+                        "active_media_reference_key": "DEFAULT_MEDIA"
+                    }
+                ],
+                "kind": "Video"
+            }
+        ]
+    }
+}

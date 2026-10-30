@@ -1,0 +1,191 @@
+{
+    "OTIO_SCHEMA": "Timeline.1",
+    "metadata": {},
+    "name": "AI Story Edit",
+    "global_start_time": null,
+    "tracks": {
+        "OTIO_SCHEMA": "Stack.1",
+        "metadata": {},
+        "name": "tracks",
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "color": null,
+        "children": [
+            {
+                "OTIO_SCHEMA": "Track.1",
+                "metadata": {},
+                "name": "Main Video",
+                "source_range": null,
+                "effects": [],
+                "markers": [],
+                "enabled": true,
+                "color": null,
+                "children": [
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "AIEdit": {
+                                "clip_id": "clip_001",
+                                "reason": "Strong opening hook from upload_001_clip1_interview.mp4: establishes context and theme.",
+                                "source_filename": "upload_001_clip1_interview.mp4",
+                                "story_role": "introduction"
+                            }
+                        },
+                        "name": "clip_001: Strong opening hook from upload_001_clip1_interview.mp4: establishes context and theme.",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 1.0,
+                                "value": 5.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 1.0,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "color": null,
+                        "media_references": {
+                            "DEFAULT_MEDIA": {
+                                "OTIO_SCHEMA": "ExternalReference.1",
+                                "metadata": {},
+                                "name": "",
+                                "available_range": null,
+                                "available_image_bounds": null,
+                                "target_url": "file:///C:/Users/user/Desktop/RYHATHON%20-%202026/EditAI/backend/storage/projects/90ce355a-7ca/source/upload_001_clip1_interview.mp4"
+                            }
+                        },
+                        "active_media_reference_key": "DEFAULT_MEDIA"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "AIEdit": {
+                                "clip_id": "clip_002",
+                                "reason": "Dynamic action sequence from upload_002_clip2_action_broll.mp4: accelerates visual pacing.",
+                                "source_filename": "upload_002_clip2_action_broll.mp4",
+                                "story_role": "action_broll"
+                            }
+                        },
+                        "name": "clip_002: Dynamic action sequence from upload_002_clip2_action_broll.mp4: accelerates visual pacing.",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 1.0,
+                                "value": 4.5
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 1.0,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "color": null,
+                        "media_references": {
+                            "DEFAULT_MEDIA": {
+                                "OTIO_SCHEMA": "ExternalReference.1",
+                                "metadata": {},
+                                "name": "",
+                                "available_range": null,
+                                "available_image_bounds": null,
+                                "target_url": "file:///C:/Users/user/Desktop/RYHATHON%20-%202026/EditAI/backend/storage/projects/90ce355a-7ca/source/upload_002_clip2_action_broll.mp4"
+                            }
+                        },
+                        "active_media_reference_key": "DEFAULT_MEDIA"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "AIEdit": {
+                                "clip_id": "clip_003",
+                                "reason": "Core value proposition from upload_003_clip3_scenic_overview.mp4: delivers primary narrative message.",
+                                "source_filename": "upload_003_clip3_scenic_overview.mp4",
+                                "story_role": "core_message"
+                            }
+                        },
+                        "name": "clip_003: Core value proposition from upload_003_clip3_scenic_overview.mp4: delivers primary narrative message.",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 1.0,
+                                "value": 5.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 1.0,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "color": null,
+                        "media_references": {
+                            "DEFAULT_MEDIA": {
+                                "OTIO_SCHEMA": "ExternalReference.1",
+                                "metadata": {},
+                                "name": "",
+                                "available_range": null,
+                                "available_image_bounds": null,
+                                "target_url": "file:///C:/Users/user/Desktop/RYHATHON%20-%202026/EditAI/backend/storage/projects/90ce355a-7ca/source/upload_003_clip3_scenic_overview.mp4"
+                            }
+                        },
+                        "active_media_reference_key": "DEFAULT_MEDIA"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "AIEdit": {
+                                "clip_id": "clip_002",
+                                "reason": "Atmospheric closing sequence from upload_002_clip2_action_broll.mp4: provides visual and narrative closure.",
+                                "source_filename": "upload_002_clip2_action_broll.mp4",
+                                "story_role": "outro"
+                            }
+                        },
+                        "name": "clip_002: Atmospheric closing sequence from upload_002_clip2_action_broll.mp4: provides visual and narrative closure.",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 1.0,
+                                "value": 4.5
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 1.0,
+                                "value": 5.5
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "color": null,
+                        "media_references": {
+                            "DEFAULT_MEDIA": {
+                                "OTIO_SCHEMA": "ExternalReference.1",
+                                "metadata": {},
+                                "name": "",
+                                "available_range": null,
+                                "available_image_bounds": null,
+                                "target_url": "file:///C:/Users/user/Desktop/RYHATHON%20-%202026/EditAI/backend/storage/projects/90ce355a-7ca/source/upload_002_clip2_action_broll.mp4"
+                            }
+                        },
+                        "active_media_reference_key": "DEFAULT_MEDIA"
+                    }
+                ],
+                "kind": "Video"
+            }
+        ]
+    }
+}

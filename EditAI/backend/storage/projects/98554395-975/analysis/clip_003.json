@@ -1,0 +1,16 @@
+{
+  "clip_id": "clip_003",
+  "filename": "upload_003_vid_af0d89_scenic_outro.mp4",
+  "duration": 10.0,
+  "summary": "upload_003_vid_af0d89_scenic_outro.mp4: 10.0s, 1 analyzed segments",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "transcript": "Ambient or presentation visual framing; no spoken dialogue.",
+      "visual_summary": "Scene 1 (10.0s): Static low activity (motion: 0.0, brightness: 40)",
+      "story_role": "presentation",
+      "quality": 0.7
+    }
+  ]
+}

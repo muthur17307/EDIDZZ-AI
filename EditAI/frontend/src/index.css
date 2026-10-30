@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+}
+
+/* DaVinci Resolve subtle dark workspace scrollbars */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #141518;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2b2d34;
+  border-radius: 2px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #3c3e47;
+}
+
+/* Timeline subtle ruler background */
+.timeline-track-grid {
+  background-size: 50px 100%;
+  background-image: linear-gradient(to right, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+}

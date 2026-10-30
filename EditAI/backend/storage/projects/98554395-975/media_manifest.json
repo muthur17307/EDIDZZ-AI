@@ -1,0 +1,20 @@
+[
+  {
+    "clip_id": "clip_001",
+    "path": "C:\\Users\\user\\Desktop\\RYHATHON - 2026\\EditAI\\backend\\storage\\projects\\98554395-975\\source\\upload_001_vid_27410b_keynote_speaker.mp4",
+    "filename": "upload_001_vid_27410b_keynote_speaker.mp4",
+    "duration": 12.0
+  },
+  {
+    "clip_id": "clip_002",
+    "path": "C:\\Users\\user\\Desktop\\RYHATHON - 2026\\EditAI\\backend\\storage\\projects\\98554395-975\\source\\upload_002_vid_54c343_action_broll.mp4",
+    "filename": "upload_002_vid_54c343_action_broll.mp4",
+    "duration": 10.0
+  },
+  {
+    "clip_id": "clip_003",
+    "path": "C:\\Users\\user\\Desktop\\RYHATHON - 2026\\EditAI\\backend\\storage\\projects\\98554395-975\\source\\upload_003_vid_af0d89_scenic_outro.mp4",
+    "filename": "upload_003_vid_af0d89_scenic_outro.mp4",
+    "duration": 10.0
+  }
+]
