@@ -12,7 +12,7 @@ echo.
 echo [*] Launching FastAPI Backend in dedicated window...
 start "EditMind AI - Backend (Port 8000)" cmd /k ""%~dp0run_backend.bat""
 
-timeout /t 2 /nobreak >nul
+ping 127.0.0.1 -n 3 >nul
 
 echo [*] Launching Vite Frontend Dev Server in dedicated window...
 start "EditMind AI - Frontend (Port 5173)" cmd /k ""%~dp0run_frontend.bat""
@@ -22,4 +22,3 @@ echo [OK] Both services launched in separate windows!
 echo      - Backend API  : http://127.0.0.1:8000 (Docs: http://127.0.0.1:8000/docs)
 echo      - Frontend App : http://localhost:5173
 echo.
-

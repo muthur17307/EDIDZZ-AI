@@ -15,12 +15,12 @@ from pathlib import Path
 ROOT_DIR = Path(__file__).resolve().parent
 VENV_DIR = ROOT_DIR / ".venv"
 BACKEND_DIR = ROOT_DIR / "EditAI" / "backend"
-STANDALONE_PIPELINE = ROOT_DIR / "EDIT-AI-PIPELINE--main"
 
-# Add directories to sys.path
-for p in [BACKEND_DIR, STANDALONE_PIPELINE]:
-    if p.exists() and str(p) not in sys.path:
-        sys.path.insert(0, str(p))
+# Ensure BACKEND_DIR is at index 0 of sys.path so app.main always resolves to EditAI/backend/app
+if str(BACKEND_DIR) not in sys.path:
+    sys.path.insert(0, str(BACKEND_DIR))
+if str(ROOT_DIR) not in sys.path:
+    sys.path.append(str(ROOT_DIR))
 
 def is_port_in_use(port: int, host: str = "127.0.0.1") -> bool:
     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
@@ -76,8 +76,9 @@ def main():
     import uvicorn
     # Change working directory to BACKEND_DIR so relative paths inside backend resolve properly
     os.chdir(str(BACKEND_DIR))
+    if str(BACKEND_DIR) not in sys.path:
+        sys.path.insert(0, str(BACKEND_DIR))
     uvicorn.run("app.main:app", host="127.0.0.1", port=8000, reload=True)
 
 if __name__ == "__main__":
     main()
-

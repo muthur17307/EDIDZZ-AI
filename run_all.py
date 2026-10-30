@@ -95,17 +95,18 @@ def ensure_frontend_built():
         print("          If you have pre-built assets, place them in EditAI/frontend/dist.")
 
 def connect_pipeline_paths():
-    """Adds backend and standalone pipeline directories to sys.path and PYTHONPATH."""
+    """Adds backend directory to sys.path and PYTHONPATH."""
     print("\n[4/5] Connecting pipeline modules and FastAPI backend...")
-    for path in [BACKEND_DIR, STANDALONE_PIPELINE_DIR, ROOT_DIR]:
-        path_str = str(path)
-        if path.exists() and path_str not in sys.path:
-            sys.path.insert(0, path_str)
+    # BACKEND_DIR must be FIRST so EditAI/backend/app is always imported
+    if str(BACKEND_DIR) not in sys.path:
+        sys.path.insert(0, str(BACKEND_DIR))
+    if str(ROOT_DIR) not in sys.path:
+        sys.path.append(str(ROOT_DIR))
 
     current_pythonpath = os.environ.get("PYTHONPATH", "")
-    new_paths = [str(BACKEND_DIR), str(STANDALONE_PIPELINE_DIR), str(ROOT_DIR)]
+    new_paths = [str(BACKEND_DIR), str(ROOT_DIR)]
     os.environ["PYTHONPATH"] = os.pathsep.join(new_paths + ([current_pythonpath] if current_pythonpath else []))
-    print(f"      Connected pipeline modules: EditAI/backend & EDIT-AI-PIPELINE--main")
+    print(f"      Connected pipeline modules: EditAI/backend")
 
 def is_port_in_use(port: int, host: str = "127.0.0.1") -> bool:
     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
@@ -191,6 +192,7 @@ def main():
     threading.Thread(target=open_browser, daemon=True).start()
 
     import uvicorn
+    os.chdir(str(BACKEND_DIR))
     uvicorn.run("app.main:app", host="127.0.0.1", port=port, reload=False)
 
 if __name__ == "__main__":

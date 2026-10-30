@@ -8,12 +8,11 @@ echo    FastAPI + AI Video Pipeline + Local Qwen 2.5 + SQLite
 echo ======================================================================
 echo.
 
-:: Detect virtual environment
 if exist "%~dp0.venv\Scripts\python.exe" (
-    echo [*] Using virtual environment (.venv)...
+    echo [*] Using virtual environment .venv ...
     "%~dp0.venv\Scripts\python.exe" "%~dp0run_backend.py"
 ) else (
-    echo [*] Virtual environment not found, using system Python...
+    echo [*] Using system Python ...
     python "%~dp0run_backend.py"
 )
 
@@ -22,4 +21,3 @@ if %ERRORLEVEL% NEQ 0 (
     echo [ERROR] Backend exited with error code %ERRORLEVEL%.
     pause
 )
-

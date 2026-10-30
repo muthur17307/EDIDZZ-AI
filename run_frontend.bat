@@ -4,7 +4,7 @@ cd /d "%~dp0"
 
 echo ======================================================================
 echo           EditMind AI -- Dedicated Frontend Dev Server
-echo    React 19 + Vite HMR + TailwindCSS (Port 5173)
+echo    React 19 + Vite HMR + TailwindCSS - Port 5173
 echo ======================================================================
 echo.
 
@@ -19,7 +19,7 @@ if %ERRORLEVEL% NEQ 0 (
 cd "EditAI\frontend"
 
 if not exist "node_modules\" (
-    echo [*] Installing frontend dependencies (npm install)...
+    echo [*] Installing frontend dependencies via npm install ...
     call npm install
 )
 
@@ -31,4 +31,3 @@ if %ERRORLEVEL% NEQ 0 (
     echo [ERROR] Frontend exited with error code %ERRORLEVEL%.
     pause
 )
-
